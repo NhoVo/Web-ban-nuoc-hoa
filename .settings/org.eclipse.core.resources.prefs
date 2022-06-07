@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/se/nuochoa/config/AppConfig.java=UTF-8
+encoding//src/main/java/com/se/nuochoa/controller/KhachHangController.java=UTF-8
+encoding//src/main/java/com/se/nuochoa/dao/HoaDonDaoImpl.java=UTF-8
+encoding//src/main/java/com/se/nuochoa/dao/KhachHangDaoImpl.java=UTF-8
+encoding//src/main/java/com/se/nuochoa/entity/HoaDon.java=UTF-8
+encoding//src/main/java/com/se/nuochoa/entity/KhachHang.java=UTF-8
+encoding//src/main/webapp/WEB-INF/view/admin.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/registration-form.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/thongtinkhachhang-form.jsp=UTF-8
